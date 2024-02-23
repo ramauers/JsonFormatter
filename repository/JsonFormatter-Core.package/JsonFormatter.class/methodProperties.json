@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"compact:" : "RalphMauersberger 01/22/2024 00:43",
+		"isWhitespaceCharacter:" : "RalphMauersberger 02/16/2024 10:38",
+		"prettify:" : "RalphMauersberger 01/22/2024 00:44" },
+	"instance" : {
+		"compact" : "RalphMauersberger 02/16/2024 10:54",
+		"contents" : "RalphMauersberger 01/22/2024 00:46",
+		"decreaseIndent" : "RalphMauersberger 01/22/2024 00:46",
+		"increaseIndent" : "RalphMauersberger 01/22/2024 00:46",
+		"initialize" : "RalphMauersberger 01/22/2024 00:47",
+		"isEmptyArrayOrMap" : "RalphMauersberger 02/16/2024 10:58",
+		"prettify" : "RalphMauersberger 02/16/2024 10:54",
+		"renderChar:" : "RalphMauersberger 01/22/2024 00:48",
+		"renderCharPretty:" : "RalphMauersberger 01/22/2024 00:48",
+		"renderIndent" : "RalphMauersberger 01/22/2024 00:48",
+		"resultStream:" : "RalphMauersberger 01/22/2024 00:49",
+		"sourceStream" : "RalphMauersberger 01/22/2024 00:49",
+		"sourceStream:" : "RalphMauersberger 01/22/2024 00:49",
+		"sourceString:" : "RalphMauersberger 01/22/2024 00:50",
+		"updateQuoteState:" : "RalphMauersberger 02/16/2024 10:53" } }

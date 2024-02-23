@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCompactEmptyArray" : "RalphMauersberger 02/16/2024 11:32",
+		"testCompactEmptyObject" : "RalphMauersberger 02/16/2024 11:33",
+		"testCompactObject1" : "RalphMauersberger 02/16/2024 11:46",
+		"testCompactObject2" : "RalphMauersberger 02/16/2024 11:46",
+		"testCompactObject3" : "RalphMauersberger 02/16/2024 11:51",
+		"testCompactObject4" : "RalphMauersberger 02/16/2024 12:02",
+		"testPrettifyEmptyArray" : "RalphMauersberger 02/16/2024 11:30",
+		"testPrettifyEmptyObject" : "RalphMauersberger 02/16/2024 11:31",
+		"testPrettifyObject1" : "RalphMauersberger 02/16/2024 11:27",
+		"testPrettifyObject2" : "RalphMauersberger 02/16/2024 11:46",
+		"testPrettifyObject3" : "RalphMauersberger 02/16/2024 11:49",
+		"testPrettifyObject4" : "RalphMauersberger 02/16/2024 12:02" } }
